@@ -79,7 +79,7 @@ Using the App
    ```
 
 2. Enter sensor values (CO Level, Temperature, Humidity).
-3. Click "Predict AQI" and get an instant forecast!
+3. Click "Predict AQI" and get an instant forecast.
 
 ---
 
